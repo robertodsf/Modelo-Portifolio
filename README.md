@@ -10,11 +10,11 @@ A página foi criada como um site de apresentação com foco em design limpo, re
 
 ## 🎯 Funcionalidades
 
-- ✅ Seção de boas-vindas com chamada para ação
-- ✅ Apresentação profissional com imagem e descrição
-- ✅ Galeria de projetos com título, imagem e descrição
-- ✅ Responsivo para telas menores (mobile/tablet)
-- ✅ Rodapé com informações de direitos autorais
+-  Seção de boas-vindas com chamada para ação
+-  Apresentação profissional com imagem e descrição
+-  Galeria de projetos com título, imagem e descrição
+-  Responsivo para telas menores (mobile/tablet)
+-  Rodapé com informações de direitos autorais
 
 ---
 
